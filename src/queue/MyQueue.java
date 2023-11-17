@@ -58,7 +58,7 @@ public class MyQueue<T> implements MyCollection<T> {
     }
 
     @Override
-    public int search(T element) {
+    public int search(T element) {// поиск
         return 0;
     }
 
