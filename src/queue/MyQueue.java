@@ -52,7 +52,7 @@ public class MyQueue<T> implements MyCollection<T> {
     }
 
     @Override
-    public T peek() {
+    public T peek() {// что это
 
         return null;
     }
