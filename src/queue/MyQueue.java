@@ -48,7 +48,7 @@ public class MyQueue<T> implements MyCollection<T> {
             head = 0;
             tail = 0;
         }
-        return element;
+        return element;//
     }
 
     @Override
